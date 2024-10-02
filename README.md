@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
    -->
-  [![\Francis David's GitHub stats](https://github-readme-stats.vercel.app/api?username=francisdav1d)](https://github.com/anuraghazra/github-readme-stats)
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=francisdav1d&show_icons=true&theme=dark)
 [![An image of @francisdav1d's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/francisdav1d)](https://holopin.io/@francisdav1d)
 
