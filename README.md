@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=francisdav1d&show_icons=true&theme=dark&rank_icon=percentile)     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francisdav1d&layout=compact&theme=dark)
 [![](https://visitcount.itsvg.in/api?id=francisdav1d&label=Profile%20Views&color=3&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
+[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=7wtq034cc06o6znd1229krv7k&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=7wtq034cc06o6znd1229krv7k&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=false)]]
+
 
 [![An image of @francisdav1d's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/francisdav1d)](https://holopin.io/@francisdav1d)
 
