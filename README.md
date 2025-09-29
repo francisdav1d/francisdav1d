@@ -15,11 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=francisdav1d&show_icons=true&theme=dark&rank_icon=percentile)     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francisdav1d&layout=compact&theme=dark)
-[![](https://visitcount.itsvg.in/api?id=francisdav1d&label=Profile%20Views&color=3&icon=5&pretty=true)](https://visitcount.itsvg.in)
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=7wtq034cc06o6znd1229krv7k&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=7wtq034cc06o6znd1229krv7k&redirect=true)
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=francisdav1d&show_icons=true&theme=dark&rank_icon=percentile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=7wtq034cc06o6znd1229krv7k&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=7wtq034cc06o6znd1229krv7k&redirect=true)
 [![An image of @francisdav1d's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/francisdav1d)](https://holopin.io/@francisdav1d)
 
