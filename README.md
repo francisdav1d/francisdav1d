@@ -16,6 +16,12 @@ Here are some ideas to get you started:
 -->
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=francisdav1d&show_icons=true&theme=dark&rank_icon=percentile)
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=7wtq034cc06o6znd1229krv7k&cover_image=true&theme=compact&show_offline=true&background_color=000000&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=7wtq034cc06o6znd1229krv7k&redirect=true)
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=7wtq034cc06o6znd1229krv7k&redirect=true">
+  <img 
+    src="https://spotify-github-profile.kittinanx.com/api/view?uid=7wtq034cc06o6znd1229krv7k&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=false" 
+    width="400" 
+    height="120" 
+  />
+</a>
 [![An image of @francisdav1d's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/francisdav1d)](https://holopin.io/@francisdav1d)
 
