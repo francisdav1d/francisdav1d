@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 
 ###  Live Typing Stats
 
-
-![Monkeytype Stats](https://monkeytype-readme-stats.vercel.app/api/monkeytype?username=francisdavid&theme=dark)
+![Monkeytype Stats](https://monkeytype-readme-stats.vercel.app/api/monkeytype?username=francisdavid&show=wpm15,wpm30,rank60)
 
 
 
