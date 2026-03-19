@@ -14,7 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=7wtq034cc06o6znd1229krv7k&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+###  Live Typing Stats
+
+
+![Monkeytype Stats](https://monkeytype-readme-stats-okzrotyom-francisdav1ds-projects.vercel.app/api/monkeytype?username=francisdavid&theme=dark)
+
+
+
 
 .[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=francisdav1d&show_icons=true&theme=dark&rank_icon=percentile)
 
