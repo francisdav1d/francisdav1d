@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-![Monkeytype Stats](https://monkeytype-readme-stats.vercel.app/api/monkeytype?username=francisdavid&show=wpm15,wpm60,rank15,rank60&theme=dark)
+![Monkeytype Stats](https://monkeytype-readme-stats.vercel.app/api/monkeytype?username=francisdavid&show=wpm15,wpm60,rank15,rank60)
 
 
 
