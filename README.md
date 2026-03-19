@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello World
 
 <!--
 **francisdav1d/francisdav1d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-###  Live Typing Stats
 
 ![Monkeytype Stats](https://monkeytype-readme-stats.vercel.app/api/monkeytype?username=francisdavid&show=wpm15,wpm60,rank15,rank60&theme=dark)
 
